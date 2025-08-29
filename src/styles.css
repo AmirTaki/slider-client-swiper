@@ -17,7 +17,8 @@ section {
 }
 
 .swiper-container {
-    width: 100%;
+    width: 30%;
+    height: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -43,4 +44,11 @@ section {
     top: 20px;
     right: 30px;
     opacity: .2;
+}
+
+.testimonialBox .details {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+
 }
