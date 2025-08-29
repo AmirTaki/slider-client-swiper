@@ -84,6 +84,8 @@ section {
     font-size: 12px;
 }
 
-.swiper-container-3d .swiper-slide-shadow-left {
+.swiper-container-3d .swiper-slide-shadow-left ,
+.swiper-container-3d .swiper-slide-shadow-right 
+{
     background-image: none;
 }
