@@ -22,9 +22,10 @@ section {
     padding-bottom: 50px;
 }
 
-.slider-slide {
+.swiper-slide{
     background-position: center;
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    /* height: 300px; */
+    background-color: #fff;
 }
