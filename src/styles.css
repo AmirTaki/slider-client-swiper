@@ -35,4 +35,12 @@ section {
     width: 100%;
     padding: 40px;
     padding-top: 90px;
+    color: #999
+}
+
+.testimonialBox .quote {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    opacity: .2;
 }
