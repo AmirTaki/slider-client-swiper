@@ -32,7 +32,9 @@ section {
     box-shadow: 0 15px 50px rgba(0 , 0, 0, .2);
     filter: blur(4px);
 }
-
+.swiper-slide-active{
+    filter: blur(0);
+}
 .testimonialBox {
     position: relative;
     width: 100%;
