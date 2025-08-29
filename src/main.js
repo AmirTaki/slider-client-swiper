@@ -10,5 +10,8 @@ var swiper = new Swiper (".swiper-container", {
         depth: 100,
         modifier: 1,
         slideShadows: true,
+    },
+    pagination : {
+        el : '.swiper-pagination',
     }
 })
