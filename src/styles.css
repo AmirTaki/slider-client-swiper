@@ -15,3 +15,9 @@ section {
     background: #2196f3;
     overflow: hidden;
 }
+
+.swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
