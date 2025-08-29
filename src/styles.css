@@ -50,5 +50,14 @@ section {
     display: flex;
     align-items: center;
     margin-top: 20px;
+    
+}
 
+.testimonialBox .details .imgBx{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 10px;
 }
